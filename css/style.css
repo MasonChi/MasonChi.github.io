@@ -874,7 +874,7 @@ a {
   visibility: hidden;
 }
 .article img {
-  max-width: 70%;
+  max-width: 80%;
 }
 @-webkit-keyframes cd-bounce-1 {
   0% {
